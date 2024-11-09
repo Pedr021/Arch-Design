@@ -10,15 +10,19 @@ Interiores modernos e sofisticados
 Casas minimalistas e funcionais
 Projetos de design sustentável
 Reformas e transformações de espaços
+
 🌟 A Experiência
+
 A navegação no Arch&Design foi pensada para ser intuitiva e fluida. O layout é clean e minimalista, com foco nas imagens e no conteúdo. A ideia é que, ao explorar os projetos, os visitantes se sintam inspirados e motivados a aplicar as ideias e conceitos apresentados em suas próprias casas.
 
 Arch&Design é mais do que um simples portfólio: é um ponto de encontro para pessoas que valorizam o design e aqueles que têm o poder de transformar sonhos em realidade.
 
 💻 Uso do Bootstrap no Projeto
+
 O Arch&Design utiliza o Bootstrap, um dos frameworks mais populares e poderosos para o desenvolvimento de sites responsivos e modernos. O Bootstrap facilita a criação de layouts fluidos, com design consistente e adaptável a diferentes dispositivos e tamanhos de tela, sem a necessidade de reinventar a roda.
 
 🚀 Por que usamos o Bootstrap?
+
 Responsividade Integrada: O Bootstrap vem com um sistema de grid flexível que permite que o site se adapte automaticamente a diferentes tamanhos de tela, garantindo uma experiência fluida em dispositivos móveis, tablets e desktops.
 Componentes Prontos para Uso: O Bootstrap oferece uma vasta gama de componentes prontos, como botões, formulários, menus, cards e barras de navegação, que são estilizados de forma consistente.
 Personalização Fácil: O Bootstrap é altamente personalizável, permitindo ajustes nas cores, tipografia e outros elementos visuais para alinhar o design com a identidade do projeto.
